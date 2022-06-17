@@ -115,17 +115,20 @@ Natural-Cause:
     - "%player% shot themselves with trident"
   Suffocation:
     - "%player% was squished to death"
-    - "PERMISSION[deathmessages.premium]%player% was mashed up pretty good."
   Fall:
     - "%player% fell from a high place"
+    - "%player% became flat."
+    - "%player% splattered."
+    - "%player% is now flat."
   Climbable:
     - "%player% tried climbing to greater heights and fell off %climbable%"
+    - "%player%, when your climbing %climable%, watch what your doing!"
   Fire:
     - "%player% thought standing in fire was a good idea"
   Fire-Tick:
     - "%player% was burnt to a crisp"
   Melting:
-    - "%player% melted away"
+    - "%player% is now liquid"
   Lava:
     - "%player% thought lava was a hot tub"
   Drowning:
@@ -134,14 +137,18 @@ Natural-Cause:
     - "%player% blew up"
   TNT:
     - "%player% was playing with tnt"
+    - "%player% when griefing, dont light the tnt while standing next to it!"
   Firework:
     - "%player% thought playing with fireworks was a good idea"
   End-Crystal:
-    - "%player% blew up! They were playing around with an end-crystal!"
+    - "%player% was Ended by an End Crystal"
+    - "%player%, End crystals are not toys!"
   Void:
     - "%player% fell into the void"
+    - "%player% was testing a bedrock breaking exploit."
   Lightning:
     - "%player% was struck by /lighting"
+    - "%player% was electrocuted."
   Suicide:
     - "%player% killed themselves"
   Starvation:
@@ -149,6 +156,7 @@ Natural-Cause:
   Poison:
     - "%player% was playing with poison"
   Magic:
+    - "%player% died of 1d4 magic damage."
     - "%player% was playing with magic"
   Wither:
     - "%player% withered away"
@@ -160,16 +168,19 @@ Natural-Cause:
     - "%player% died in a unique way"
   Fly-Into-Wall:
     - "%player% flew into a wall"
+    - "%player% crashed"
   Hot-Floor:
     - "%player% was playing on a magma block too long"
+    - "%player% look at the floor!"
   Cramming:
     - "%player% was killed in a heavily populated space"
+    - "%player% was in a mosh pit/"
   Dryout:
     - "%player% belonged in the water. Not land"
   Freeze:
     - "%player% did not put their snow suit on before they went to play."
   Unknown:
-    - "%player% died"
+    - "%player% died, somehow."
 Mobs:
   elderguardian:
     Solo:
